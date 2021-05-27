@@ -1,4 +1,9 @@
 # CBRatingBar
+
+本项目版本信息：
+[![](https://jitpack.io/v/Samge0/CBRatingBar.svg)](https://jitpack.io/#Samge0/CBRatingBar)
+
+源项目版本信息：
 [![](https://jitpack.io/v/CB-ysx/CBRatingBar.svg)](https://jitpack.io/#CB-ysx/CBRatingBar)
 
 等级评分控件，支持填充渐变，支持设置颜色、调整大小等，支持监听点击事件
